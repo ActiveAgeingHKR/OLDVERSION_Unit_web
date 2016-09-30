@@ -1,0 +1,17 @@
+[29-Sep-2016 09:03:33 UTC] PHP Fatal error:  Call to undefined method Aauth::loging() in /home/kodstack/caretaking.kodstack.com/application/controllers/Account.php on line 274
+[29-Sep-2016 09:36:56 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/kodstack/caretaking.kodstack.com/application/controllers/Account.php on line 270
+[29-Sep-2016 09:37:02 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/kodstack/caretaking.kodstack.com/application/controllers/Account.php on line 270
+[29-Sep-2016 09:37:06 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/kodstack/caretaking.kodstack.com/application/controllers/Account.php on line 270
+[29-Sep-2016 09:37:21 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/kodstack/caretaking.kodstack.com/application/controllers/Account.php on line 270
+[29-Sep-2016 09:42:28 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/kodstack/caretaking.kodstack.com/application/controllers/Account.php on line 293
+[29-Sep-2016 09:57:20 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/kodstack/caretaking.kodstack.com/application/controllers/Account.php on line 272
+[29-Sep-2016 09:57:28 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/kodstack/caretaking.kodstack.com/application/controllers/Account.php on line 272
+[29-Sep-2016 09:57:39 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/kodstack/caretaking.kodstack.com/application/controllers/Account.php on line 272
+[29-Sep-2016 09:57:42 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/kodstack/caretaking.kodstack.com/application/controllers/Account.php on line 272
+[29-Sep-2016 09:57:50 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/kodstack/caretaking.kodstack.com/application/controllers/Account.php on line 272
+[29-Sep-2016 09:58:15 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/kodstack/caretaking.kodstack.com/application/controllers/Account.php on line 272
+[29-Sep-2016 09:58:35 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/kodstack/caretaking.kodstack.com/application/controllers/Account.php on line 272
+[29-Sep-2016 09:58:55 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/kodstack/caretaking.kodstack.com/application/controllers/Account.php on line 272
+[29-Sep-2016 10:00:21 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/kodstack/caretaking.kodstack.com/application/controllers/Account.php on line 272
+[29-Sep-2016 10:00:29 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/kodstack/caretaking.kodstack.com/application/controllers/Account.php on line 272
+[29-Sep-2016 10:00:35 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/kodstack/caretaking.kodstack.com/application/controllers/Account.php on line 272
